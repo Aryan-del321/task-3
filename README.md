@@ -11,5 +11,4 @@ This project is a simple Speech-to-Text system built in Python using the `speech
 - SpeechRecognition
 - PyAudio
 
-## How to Run
-1. Install dependencies:
+
